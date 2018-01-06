@@ -1,0 +1,54 @@
+html{
+	height: 100%;
+}
+body{
+	padding: 2px;
+	background: url("https://cdn.spacetelescope.org/archives/images/screen/heic0516d.jpg");
+	height: auto;
+}
+#resMarg{
+	margin-left: 10%;
+}
+.time{
+	color: #33691E;
+	font-size: 13px;
+}
+.searchmatch{
+	font-weight: bold;
+	text-decoration: none;
+}
+.hyper{
+	color: #1565C0 !important;
+}
+ul{
+	list-style-type: none;
+}
+li a:hover{
+	text-decoration: none;
+	color: #000000;
+}
+li:hover{
+	text-decoration: none;
+	box-shadow: 1px 1px 1px 1px grey;
+}
+li a{	
+	color: #000000;
+	text-decoration: none;
+}
+#search{
+	width: 40%;
+}
+#margin{
+	text-align: center;
+}
+#contain{
+	display: relative;
+}
+#title{
+	color: #FFFFFF;
+	font-weight: bold;
+}
+#display{
+	background-color: #FFFFFF;
+	opacity: .9;
+}
